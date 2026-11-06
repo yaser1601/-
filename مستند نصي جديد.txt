@@ -1,0 +1,1004 @@
+11-06 17:11:34.956 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1694, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:11:34.956 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1694, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:11:34.961 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1694, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:11:34.961 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1694, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:11:37.145 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1700, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:11:37.145 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1700, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:11:37.150 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1700, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:11:37.150 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1700, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:13:12.137 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1694, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:13:42.532 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1734, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:13:42.536 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1734, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:13:42.536 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1734, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:13:42.536 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1734, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:14:03.290 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1734, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:15:05.648 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1700, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:15:14.442 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1742, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:15:14.442 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1742, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:15:14.466 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1742, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:15:14.466 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1742, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:15:16.963 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1746, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:15:16.967 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1746, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:15:16.967 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1746, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:15:16.968 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1746, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:15:51.580 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1742, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:16:58.018 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1759, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:16:58.018 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1759, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:16:58.035 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1759, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:16:58.035 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1759, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:17:08.337 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1759, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:17:58.294 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1746, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:19:35.249 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1777, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:19:35.251 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1777, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:19:35.261 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1777, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:19:35.261 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1777, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:19:36.761 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1778, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:19:36.761 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1778, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:19:36.768 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1778, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:19:36.768 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1778, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:20:38.634 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1777, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:21:35.832 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1778, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:22:03.943 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1788, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:22:03.943 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1788, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:22:03.952 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1788, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:22:03.952 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1788, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:22:07.586 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1793, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:22:07.587 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1793, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:22:07.592 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1793, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:22:07.592 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1793, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:22:34.941 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1788, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:23:35.810 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1793, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:27:39.882 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1840, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:27:39.887 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1840, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:27:39.887 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1840, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:27:39.888 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1840, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:27:41.355 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1841, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:27:41.359 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1841, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:27:41.359 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1841, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:27:41.359 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1841, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:27:41.957 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1840, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:29:36.440 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1857, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:29:36.440 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1857, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:29:36.441 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1857, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:29:36.441 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1857, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:29:49.253 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1857, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:31:05.978 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1841, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:31:46.864 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1874, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:31:46.867 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1874, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:31:46.868 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1874, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:31:46.868 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1874, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:31:48.549 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1878, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:31:48.549 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1878, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:31:48.563 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1878, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:31:48.563 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1878, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:32:06.494 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1874, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:34:05.873 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1890, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:34:05.873 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1890, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:34:05.892 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1890, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:34:05.893 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1890, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:34:08.898 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1890, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:34:26.288 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1878, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:35:40.206 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1905, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:35:40.206 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1905, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:35:40.206 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1905, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:35:40.206 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1905, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:35:42.121 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1906, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:35:42.121 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1906, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:35:42.137 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1906, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:35:42.137 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1906, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:35:43.184 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1905, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:36:05.535 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1921, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:36:05.543 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1921, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:36:05.543 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1921, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:36:05.543 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1921, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:36:09.396 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1921, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:42:05.409 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1994, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:42:05.409 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=1994, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:42:05.409 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1994, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:42:05.409 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=1994, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:42:12.937 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1994, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:43:11.628 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=1906, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:43:30.030 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2006, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:43:30.031 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2006, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:43:30.039 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2006, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:43:30.039 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2006, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:43:36.097 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2006, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:43:38.980 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2011, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:43:38.981 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2011, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:43:38.981 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2011, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:43:38.981 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2011, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:49:33.441 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2050, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:49:33.441 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2050, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:49:33.447 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2050, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:49:33.447 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2050, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:49:36.351 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2050, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:59:39.668 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2102, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:59:39.669 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2102, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 17:59:39.676 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2102, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 17:59:39.676 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2102, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:02:18.637 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2102, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:13:16.465 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2134, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 18:13:16.469 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2134, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:13:16.469 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2134, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:13:16.469 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2134, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 18:46:46.315 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2134, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:46:47.348 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2196, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 18:46:47.348 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2196, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 18:46:47.360 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2196, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:46:47.360 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2196, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:46:54.513 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2196, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:50:38.012 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2249, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 18:50:38.017 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2249, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:50:38.017 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2249, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:50:38.017 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2249, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 18:51:06.415 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2249, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:51:46.053 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2269, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 18:51:46.057 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2269, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:51:46.057 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2269, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:51:46.057 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2269, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 18:51:55.082 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2269, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:54:22.898 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2320, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 18:54:22.902 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2320, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:54:22.902 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2320, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 18:54:22.902 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2320, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 18:54:51.506 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2320, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:00:26.858 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2336, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:00:26.861 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2336, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:00:26.862 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2336, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:00:26.862 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2336, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:01:02.870 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2336, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:01:54.043 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2368, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:01:54.059 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2368, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:01:54.059 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2368, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:01:54.059 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2368, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:01:56.659 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2368, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:02:50.648 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2011, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:03:14.246 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2387, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:03:14.252 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2387, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:03:14.252 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2387, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:03:14.252 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2387, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:03:18.051 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2394, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:03:18.051 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2394, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:03:18.059 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2394, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:03:18.059 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2394, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:05:10.800 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2387, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:06:41.293 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2394, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:17:13.690 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2486, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:17:13.696 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2486, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:17:13.696 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2486, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:17:13.696 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2486, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:17:15.256 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2487, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:17:15.261 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2487, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:17:15.261 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2487, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:17:15.261 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2487, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:18:40.028 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2486, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:20:27.545 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2515, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:20:27.550 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2515, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:20:27.551 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2515, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:20:27.551 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2515, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:20:47.156 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2515, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:21:42.548 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2487, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:21:54.403 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2526, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:21:54.410 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2526, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:21:54.410 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2526, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:21:54.410 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2526, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:21:57.512 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2529, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:21:57.512 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2529, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:21:57.518 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2529, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:21:57.519 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2529, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:22:10.869 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2526, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:24:44.553 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2529, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:25:27.488 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2570, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:25:27.500 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2570, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:25:27.500 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2570, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:25:27.500 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2570, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:25:30.444 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2578, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:25:30.461 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2578, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:25:30.464 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2578, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:25:30.465 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2578, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:26:10.413 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2570, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:27:19.025 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2588, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:27:19.035 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2588, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:27:19.035 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2588, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:27:19.035 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2588, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:27:27.102 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2588, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:27:31.015 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2578, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:31:17.722 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2621, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:31:17.729 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2621, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:31:17.729 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2621, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:31:17.729 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2621, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:31:19.716 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2622, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:31:19.716 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2622, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:31:19.722 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2622, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:31:19.722 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2622, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:31:36.366 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2621, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:32:13.570 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2622, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:32:21.404 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2640, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:32:21.404 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2640, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:32:21.429 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2640, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:32:21.429 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2640, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:32:23.694 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2644, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:32:23.694 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2644, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:32:23.701 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2644, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:32:23.701 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2644, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:32:32.727 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2640, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:33:52.993 I/am_proc_died( 1934): [0,6944,com.android.vending:background,995,19]
+11-06 19:33:53.195 I/am_kill ( 1934): [0,9112,com.google.android.youtube,985,MiuiMemoryService(cch-empty)]
+11-06 19:33:53.288 I/am_proc_died( 1934): [0,9112,com.google.android.youtube,985,19]
+11-06 19:35:13.868 I/am_pss  ( 1934): [8146,10263,com.discord,276214784,263090176,365568,374329344,0,4,28]
+11-06 19:36:01.786 I/notification_enqueue( 1934): [10263,8146,com.discord,0,MESSAGE_CREATE1531385047171596469,0,Notification(channel=messages shortcut=1531385047171596469 contentView=null vibrate=null sound=null defaults=0x0 flags=0x18 color=0xff5865f2 category=msg groupKey=GROUP_MESSAGE_CREATE actions=2 vis=PRIVATE locusId=LocusId[19_chars]),0]
+11-06 19:36:01.856 I/am_proc_died( 1934): [0,9364,com.facebook.system,975,19]
+11-06 19:36:01.986 I/sysui_multi_action( 1934): [757,1501,758,1,793,204,794,0,795,204,796,0,797,MESSAGE_CREATE1531385047171596469,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1500,0,1641,msg,1688,1,1745,732821530]
+11-06 19:36:02.083 I/am_kill ( 1934): [0,9321,com.facebook.appmanager,965,MiuiMemoryService(cch-empty)]
+11-06 19:36:02.098 I/am_kill ( 1934): [0,9482,android.process.media,955,MiuiMemoryService(cch-empty)]
+11-06 19:36:02.139 I/am_proc_died( 1934): [0,9482,android.process.media,955,19]
+11-06 19:36:02.141 I/am_kill ( 1934): [0,9508,com.google.android.apps.turbo,945,MiuiMemoryService(cch-empty)]
+11-06 19:36:02.159 I/am_kill ( 1934): [0,9542,com.android.settings,935,MiuiMemoryService(cch-empty)]
+11-06 19:36:02.170 I/am_proc_died( 1934): [0,9321,com.facebook.appmanager,965,19]
+11-06 19:36:02.179 I/am_proc_died( 1934): [0,9508,com.google.android.apps.turbo,945,19]
+11-06 19:36:02.233 I/am_proc_died( 1934): [0,9542,com.android.settings,935,19]
+11-06 19:36:02.470 I/sysui_multi_action( 1934): [757,1501,758,1,793,687,794,0,795,687,796,0,797,MESSAGE_CREATE1531385047171596469,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1500,0,1641,msg,1688,1,1745,732821530]
+11-06 19:36:02.470 I/sysui_multi_action( 1934): [757,199,758,1,759,4,793,688,794,0,795,688,796,0,797,MESSAGE_CREATE1531385047171596469,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1500,1,1641,msg,1688,1,1745,732821530]
+11-06 19:36:02.470 I/notification_alert( 1934): [0|com.discord|0|MESSAGE_CREATE1531385047171596469|10263,0,0,1]
+11-06 19:36:03.137 I/sysui_multi_action( 1934): [757,128,758,1,793,1355,794,0,795,1355,796,0,797,MESSAGE_CREATE1531385047171596469,798,0,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1395,5,1500,668,1641,msg,1688,1,1745,732821530]
+11-06 19:36:03.138 I/notification_visibility( 1934): [0|com.discord|0|MESSAGE_CREATE1531385047171596469|10263,1,1355,1355,0,0]
+11-06 19:36:08.439 I/sysui_multi_action( 1934): [757,128,758,2,793,6657,794,5302,795,6657,796,0,797,MESSAGE_CREATE1531385047171596469,798,0,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1395,5,1500,5970,1641,msg,1688,1,1745,732821530]
+11-06 19:36:08.440 I/notification_visibility( 1934): [0|com.discord|0|MESSAGE_CREATE1531385047171596469|10263,0,6657,6657,0,0]
+11-06 19:36:12.230 I/notification_enqueue( 1934): [10263,8146,com.discord,0,MESSAGE_CREATE1531385047171596469,0,Notification(channel=messages shortcut=1531385047171596469 contentView=null vibrate=null sound=null defaults=0x0 flags=0x18 color=0xff5865f2 category=msg groupKey=GROUP_MESSAGE_CREATE actions=3 vis=PRIVATE locusId=LocusId[19_chars]),1]
+11-06 19:36:12.433 I/sysui_multi_action( 1934): [757,1501,758,1,793,10651,794,9296,795,204,796,0,797,MESSAGE_CREATE1531385047171596469,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1500,0,1641,msg,1688,1,1745,732821530]
+11-06 19:36:23.509 I/am_proc_died( 1934): [0,9583,com.google.android.projection.gearhead:car,955,19]
+11-06 19:36:23.658 I/am_kill ( 1934): [0,9156,com.google.process.gservices,915,MiuiMemoryService(cch-empty)]
+11-06 19:36:23.685 I/am_proc_died( 1934): [0,9156,com.google.process.gservices,915,19]
+11-06 19:36:23.704 I/am_kill ( 1934): [0,9269,com.android.cellbroadcastreceiver,905,MiuiMemoryService(cch-empty)]
+11-06 19:36:23.731 I/am_proc_died( 1934): [0,9269,com.android.cellbroadcastreceiver,905,19]
+11-06 19:36:23.759 I/am_kill ( 1934): [0,9405,com.facebook.services,500,MiuiMemoryService(started-services)]
+11-06 19:36:23.797 I/am_proc_died( 1934): [0,9405,com.facebook.services,500,10]
+11-06 19:36:23.829 I/am_kill ( 1934): [0,9651,com.whatsapp,800,MiuiMemoryService(started-services)]
+11-06 19:36:23.909 I/am_proc_died( 1934): [0,9651,com.whatsapp,800,10]
+11-06 19:36:25.310 I/am_pss  ( 1934): [8146,10263,com.discord,269159424,256483328,415744,362455040,1,4,20]
+11-06 19:36:50.672 I/notification_enqueue( 1934): [10263,8146,com.discord,0,MESSAGE_CREATE1531385047171596469,0,Notification(channel=messages shortcut=1531385047171596469 contentView=null vibrate=null sound=null defaults=0x0 flags=0x18 color=0xff5865f2 category=msg groupKey=GROUP_MESSAGE_CREATE actions=3 vis=PRIVATE locusId=LocusId[19_chars]),1]
+11-06 19:36:50.872 I/sysui_multi_action( 1934): [757,1501,758,1,793,49090,794,47735,795,204,796,0,797,MESSAGE_CREATE1531385047171596469,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1500,0,1641,msg,1688,1,1745,732821530]
+11-06 19:37:19.327 I/am_proc_died( 1934): [0,9862,com.google.android.googlequicksearchbox:googleapp,975,19]
+11-06 19:37:19.367 I/am_proc_died( 1934): [0,10174,com.facebook.system,965,19]
+11-06 19:37:19.469 I/am_kill ( 1934): [0,10106,com.facebook.appmanager,955,MiuiMemoryService(cch-empty)]
+11-06 19:37:19.503 I/am_proc_died( 1934): [0,10106,com.facebook.appmanager,955,19]
+11-06 19:37:19.515 I/am_kill ( 1934): [0,10356,com.bandainamcoent.dblegends_ww,935,MiuiMemoryService(cch-empty)]
+11-06 19:37:19.552 I/am_proc_died( 1934): [0,10356,com.bandainamcoent.dblegends_ww,935,19]
+11-06 19:37:19.737 I/am_kill ( 1934): [0,10466,com.google.process.gservices,925,MiuiMemoryService(cch-empty)]
+11-06 19:37:19.765 I/am_proc_died( 1934): [0,10466,com.google.process.gservices,925,19]
+11-06 19:37:19.781 I/am_kill ( 1934): [0,10278,com.android.cellbroadcastreceiver,915,MiuiMemoryService(cch-empty)]
+11-06 19:37:19.810 I/am_proc_died( 1934): [0,10278,com.android.cellbroadcastreceiver,915,19]
+11-06 19:37:19.836 I/am_kill ( 1934): [0,10219,com.whatsapp,800,MiuiMemoryService(started-services)]
+11-06 19:37:19.930 I/am_proc_died( 1934): [0,10219,com.whatsapp,800,10]
+11-06 19:37:20.061 I/am_kill ( 1934): [0,10061,com.facebook.services,500,MiuiMemoryService(started-services)]
+11-06 19:37:20.080 I/am_kill ( 1934): [0,9999,com.android.settings,400,MiuiMemoryService(cch-empty)]
+11-06 19:37:20.123 I/am_proc_died( 1934): [0,9999,com.android.settings,400,13]
+11-06 19:37:20.134 I/am_proc_died( 1934): [0,10061,com.facebook.services,500,10]
+11-06 19:37:24.540 I/am_proc_died( 1934): [0,9954,com.google.android.googlequicksearchbox:search,935,19]
+11-06 19:37:24.989 I/am_kill ( 1934): [0,10710,com.google.android.apps.wellbeing,905,MiuiMemoryService(cch-empty)]
+11-06 19:37:25.034 I/am_proc_died( 1934): [0,10710,com.google.android.apps.wellbeing,905,19]
+11-06 19:37:25.070 I/am_kill ( 1934): [0,10716,com.facebook.system,700,MiuiMemoryService(recent-provider)]
+11-06 19:37:25.103 I/am_proc_died( 1934): [0,10716,com.facebook.system,700,15]
+11-06 19:37:30.012 I/am_proc_died( 1934): [0,9758,android.process.acore,915,19]
+11-06 19:39:08.447 I/notification_enqueue( 1934): [10263,8146,com.discord,0,GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735,0,Notification(channel=voice_activity_default shortcut=1532153276357673010 contentView=null vibrate=null sound=null defaults=0x0 flags=0x18 color=0xff5865f2 category=social groupKey=GROUP_GENERIC_PUSH_NOTIFICATION_SENT vis=PRIVATE locusId=LocusId[19_chars]),0]
+11-06 19:39:08.652 I/sysui_multi_action( 1934): [757,1501,758,1,793,207,794,0,795,207,796,0,797,GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735,806,com.discord,857,voice_activity_default,858,3,946,GROUP_GENERIC_PUSH_NOTIFICATION_SENT,947,0,1500,0,1641,social,1688,1,1745,732821530]
+11-06 19:39:09.586 I/sysui_multi_action( 1934): [757,128,758,1,793,414458,794,0,795,414458,796,8761,798,2,806,com.discord,857,mediaConnections,858,3,946,silent,947,0,1395,6,1500,414254,1688,1]
+11-06 19:39:09.586 I/notification_visibility( 1934): [0|com.discord|8761|null|10263,1,414458,414458,0,2]
+11-06 19:39:09.586 I/sysui_multi_action( 1934): [757,128,758,1,793,187804,794,0,795,138918,796,0,797,MESSAGE_CREATE1531385047171596469,798,1,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1395,6,1500,138714,1641,msg,1688,1,1745,732821530]
+11-06 19:39:09.587 I/sysui_multi_action( 1934): [757,1501,758,1,793,187805,794,1,795,138919,796,0,797,MESSAGE_CREATE1531385047171596469,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1500,0,1641,msg,1688,1,1745,732821530]
+11-06 19:39:09.587 I/notification_visibility( 1934): [0|com.discord|0|MESSAGE_CREATE1531385047171596469|10263,1,187804,138918,0,1]
+11-06 19:39:09.588 I/sysui_multi_action( 1934): [757,128,758,1,793,1144,794,0,795,1144,796,0,797,GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735,798,0,806,com.discord,857,voice_activity_default,858,3,946,GROUP_GENERIC_PUSH_NOTIFICATION_SENT,947,0,1395,6,1500,937,1641,social,1688,1,1745,732821530]
+11-06 19:39:09.588 I/notification_visibility( 1934): [0|com.discord|0|GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735|10263,1,1144,1144,0,0]
+11-06 19:39:16.215 I/sysui_multi_action( 1934): [757,128,758,2,793,421087,794,6629,795,421087,796,8761,798,2,806,com.discord,857,mediaConnections,858,3,946,silent,947,0,1395,6,1500,420883,1688,1]
+11-06 19:39:16.215 I/notification_visibility( 1934): [0|com.discord|8761|null|10263,0,421087,421087,0,2]
+11-06 19:39:16.216 I/sysui_multi_action( 1934): [757,128,758,2,793,194433,794,6629,795,145547,796,0,797,MESSAGE_CREATE1531385047171596469,798,1,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1395,6,1500,6628,1641,msg,1688,1,1745,732821530]
+11-06 19:39:16.216 I/notification_visibility( 1934): [0|com.discord|0|MESSAGE_CREATE1531385047171596469|10263,0,194433,145547,0,1]
+11-06 19:39:16.217 I/sysui_multi_action( 1934): [757,128,758,2,793,7773,794,6629,795,7773,796,0,797,GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735,798,0,806,com.discord,857,voice_activity_default,858,3,946,GROUP_GENERIC_PUSH_NOTIFICATION_SENT,947,0,1395,6,1500,7566,1641,social,1688,1,1745,732821530]
+11-06 19:39:16.217 I/notification_visibility( 1934): [0|com.discord|0|GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735|10263,0,7773,7773,0,0]
+11-06 19:39:34.441 I/am_proc_died( 1934): [0,10498,com.mi.android.globalminusscreen,945,19]
+11-06 19:39:34.659 I/am_proc_died( 1934): [0,10614,com.facebook.appmanager,945,19]
+11-06 19:39:34.668 I/am_kill ( 1934): [0,0,com.facebook.appmanager,945,MiuiMemoryService(cch-empty)]
+11-06 19:39:34.728 I/am_kill ( 1934): [0,10989,com.android.cellbroadcastreceiver,935,MiuiMemoryService(cch-empty)]
+11-06 19:39:34.777 I/am_kill ( 1934): [0,11046,com.google.android.apps.wellbeing,915,MiuiMemoryService(cch-empty)]
+11-06 19:39:34.809 I/am_proc_died( 1934): [0,10989,com.android.cellbroadcastreceiver,935,19]
+11-06 19:39:34.862 I/am_proc_died( 1934): [0,11046,com.google.android.apps.wellbeing,915,19]
+11-06 19:39:35.010 I/am_kill ( 1934): [0,11120,com.google.process.gservices,905,MiuiMemoryService(cch-empty)]
+11-06 19:39:35.036 I/am_proc_died( 1934): [0,11120,com.google.process.gservices,905,19]
+11-06 19:39:35.069 I/am_kill ( 1934): [0,10570,com.facebook.services,500,MiuiMemoryService(started-services)]
+11-06 19:39:35.105 I/am_proc_died( 1934): [0,10570,com.facebook.services,500,10]
+11-06 19:39:35.139 I/am_kill ( 1934): [0,10846,com.whatsapp,500,MiuiMemoryService(started-services)]
+11-06 19:39:35.213 I/am_proc_died( 1934): [0,10846,com.whatsapp,500,10]
+11-06 19:39:35.353 I/am_kill ( 1934): [0,10672,com.android.settings,400,MiuiMemoryService(cch-empty)]
+11-06 19:39:35.409 I/am_proc_died( 1934): [0,10672,com.android.settings,400,13]
+11-06 19:39:35.410 I/am_kill ( 1934): [0,10997,com.twitter.android,250,MiuiMemoryService(service)]
+11-06 19:39:35.507 I/am_proc_died( 1934): [0,10997,com.twitter.android,250,8]
+11-06 19:44:12.563 I/am_pss  ( 1934): [8146,10263,com.discord,247537664,239411200,397312,333594624,0,4,16]
+11-06 19:44:12.586 I/sysui_multi_action( 1934): [757,128,758,1,793,717459,794,0,795,717459,796,8761,798,2,806,com.discord,857,mediaConnections,858,3,946,silent,947,0,1395,6,1500,717255,1688,1]
+11-06 19:44:12.586 I/notification_visibility( 1934): [0|com.discord|8761|null|10263,1,717459,717459,0,2]
+11-06 19:44:12.587 I/sysui_multi_action( 1934): [757,128,758,1,793,490805,794,0,795,441919,796,0,797,MESSAGE_CREATE1531385047171596469,798,1,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1395,6,1500,303000,1641,msg,1688,1,1745,732821530]
+11-06 19:44:12.587 I/sysui_multi_action( 1934): [757,1501,758,1,793,490805,794,0,795,441919,796,0,797,MESSAGE_CREATE1531385047171596469,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1500,0,1641,msg,1688,1,1745,732821530]
+11-06 19:44:12.587 I/notification_visibility( 1934): [0|com.discord|0|MESSAGE_CREATE1531385047171596469|10263,1,490805,441919,0,1]
+11-06 19:44:12.588 I/sysui_multi_action( 1934): [757,128,758,1,793,304144,794,0,795,304144,796,0,797,GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735,798,0,806,com.discord,857,voice_activity_default,858,3,946,GROUP_GENERIC_PUSH_NOTIFICATION_SENT,947,0,1395,6,1500,303937,1641,social,1688,1,1745,732821530]
+11-06 19:44:12.588 I/notification_visibility( 1934): [0|com.discord|0|GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735|10263,1,304144,304144,0,0]
+11-06 19:44:13.595 I/sysui_multi_action( 1934): [757,128,758,2,793,718468,794,1009,795,718468,796,8761,798,2,806,com.discord,857,mediaConnections,858,3,946,silent,947,0,1395,6,1500,718264,1688,1]
+11-06 19:44:13.595 I/notification_visibility( 1934): [0|com.discord|8761|null|10263,0,718468,718468,0,2]
+11-06 19:44:13.595 I/sysui_multi_action( 1934): [757,128,758,2,793,491813,794,1008,795,442927,796,0,797,MESSAGE_CREATE1531385047171596469,798,1,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1395,6,1500,1008,1641,msg,1688,1,1745,732821530]
+11-06 19:44:13.595 I/notification_visibility( 1934): [0|com.discord|0|MESSAGE_CREATE1531385047171596469|10263,0,491813,442927,0,1]
+11-06 19:44:13.596 I/sysui_multi_action( 1934): [757,128,758,2,793,305152,794,1008,795,305152,796,0,797,GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735,798,0,806,com.discord,857,voice_activity_default,858,3,946,GROUP_GENERIC_PUSH_NOTIFICATION_SENT,947,0,1395,6,1500,304945,1641,social,1688,1,1745,732821530]
+11-06 19:44:13.596 I/notification_visibility( 1934): [0|com.discord|0|GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735|10263,0,305152,305152,0,0]
+11-06 19:44:13.615 I/sysui_multi_action( 1934): [757,128,758,1,793,718488,794,0,795,718488,796,8761,798,2,806,com.discord,857,mediaConnections,858,3,946,silent,947,0,1395,6,1500,718284,1688,1]
+11-06 19:44:13.616 I/notification_visibility( 1934): [0|com.discord|8761|null|10263,1,718488,718488,0,2]
+11-06 19:44:13.616 I/sysui_multi_action( 1934): [757,128,758,1,793,491834,794,0,795,442948,796,0,797,MESSAGE_CREATE1531385047171596469,798,1,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1395,6,1500,1029,1641,msg,1688,1,1745,732821530]
+11-06 19:44:13.616 I/sysui_multi_action( 1934): [757,1501,758,1,793,491834,794,0,795,442948,796,0,797,MESSAGE_CREATE1531385047171596469,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1500,0,1641,msg,1688,1,1745,732821530]
+11-06 19:44:13.616 I/notification_visibility( 1934): [0|com.discord|0|MESSAGE_CREATE1531385047171596469|10263,1,491834,442948,0,1]
+11-06 19:44:13.621 I/sysui_multi_action( 1934): [757,128,758,1,793,305176,794,0,795,305176,796,0,797,GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735,798,0,806,com.discord,857,voice_activity_default,858,3,946,GROUP_GENERIC_PUSH_NOTIFICATION_SENT,947,0,1395,6,1500,304969,1641,social,1688,1,1745,732821530]
+11-06 19:44:13.621 I/notification_visibility( 1934): [0|com.discord|0|GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735|10263,1,305176,305176,0,0]
+11-06 19:44:14.934 I/sysui_multi_action( 1934): [757,128,758,2,793,719807,794,1319,795,719807,796,8761,798,2,806,com.discord,857,mediaConnections,858,3,946,silent,947,0,1395,6,1500,719603,1688,1]
+11-06 19:44:14.934 I/notification_visibility( 1934): [0|com.discord|8761|null|10263,0,719807,719807,0,2]
+11-06 19:44:14.934 I/sysui_multi_action( 1934): [757,128,758,2,793,493152,794,1318,795,444266,796,0,797,MESSAGE_CREATE1531385047171596469,798,1,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1395,6,1500,1318,1641,msg,1688,1,1745,732821530]
+11-06 19:44:14.934 I/notification_visibility( 1934): [0|com.discord|0|MESSAGE_CREATE1531385047171596469|10263,0,493152,444266,0,1]
+11-06 19:44:14.935 I/sysui_multi_action( 1934): [757,128,758,2,793,306491,794,1315,795,306491,796,0,797,GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735,798,0,806,com.discord,857,voice_activity_default,858,3,946,GROUP_GENERIC_PUSH_NOTIFICATION_SENT,947,0,1395,6,1500,306284,1641,social,1688,1,1745,732821530]
+11-06 19:44:14.935 I/notification_visibility( 1934): [0|com.discord|0|GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735|10263,0,306491,306491,0,0]
+11-06 19:44:16.980 I/am_proc_died( 1934): [0,10959,android.process.acore,965,19]
+11-06 19:44:17.088 I/am_proc_died( 1934): [0,11268,com.google.android.apps.turbo,955,19]
+11-06 19:44:17.133 I/am_kill ( 1934): [0,11313,com.google.process.gservices,945,MiuiMemoryService(cch-empty)]
+11-06 19:44:17.186 I/am_proc_died( 1934): [0,11313,com.google.process.gservices,945,19]
+11-06 19:44:17.202 I/am_kill ( 1934): [0,11424,com.facebook.system,935,MiuiMemoryService(cch-empty)]
+11-06 19:44:17.254 I/am_proc_died( 1934): [0,11424,com.facebook.system,935,19]
+11-06 19:44:17.299 I/am_kill ( 1934): [0,11333,com.facebook.appmanager,925,MiuiMemoryService(cch-empty)]
+11-06 19:44:17.341 I/am_proc_died( 1934): [0,11333,com.facebook.appmanager,925,19]
+11-06 19:44:17.345 I/am_kill ( 1934): [0,11546,com.android.cellbroadcastreceiver,915,MiuiMemoryService(cch-empty)]
+11-06 19:44:17.377 I/am_proc_died( 1934): [0,11546,com.android.cellbroadcastreceiver,915,19]
+11-06 19:44:17.582 I/am_kill ( 1934): [0,11573,com.google.android.apps.wellbeing,905,MiuiMemoryService(cch-empty)]
+11-06 19:44:17.650 I/am_proc_died( 1934): [0,11573,com.google.android.apps.wellbeing,905,19]
+11-06 19:44:17.651 I/am_kill ( 1934): [0,11246,com.facebook.services,500,MiuiMemoryService(started-services)]
+11-06 19:44:17.689 I/am_proc_died( 1934): [0,11246,com.facebook.services,500,10]
+11-06 19:44:17.860 I/am_kill ( 1934): [0,11398,com.android.settings,400,MiuiMemoryService(cch-empty)]
+11-06 19:44:17.902 I/am_proc_died( 1934): [0,11398,com.android.settings,400,13]
+11-06 19:44:22.008 I/am_proc_died( 1934): [0,12077,com.google.android.apps.turbo,915,19]
+11-06 19:44:22.228 I/am_kill ( 1934): [0,12018,com.google.android.apps.turbo:aab,905,MiuiMemoryService(cch-empty)]
+11-06 19:44:22.251 I/am_kill ( 1934): [0,11764,com.google.process.gapps,700,MiuiMemoryService(recent-provider)]
+11-06 19:44:22.316 I/am_kill ( 1934): [0,11723,org.telegram.messenger.web,250,MiuiMemoryService(service)]
+11-06 19:44:22.377 I/am_proc_died( 1934): [0,11764,com.google.process.gapps,700,15]
+11-06 19:44:22.397 I/am_proc_died( 1934): [0,12018,com.google.android.apps.turbo:aab,905,19]
+11-06 19:44:22.496 I/am_proc_died( 1934): [0,11723,org.telegram.messenger.web,250,8]
+11-06 19:44:23.568 I/am_proc_died( 1934): [0,12099,android.process.media,915,19]
+11-06 19:44:23.747 I/am_kill ( 1934): [0,12148,com.google.android.projection.gearhead:car,905,MiuiMemoryService(cch-empty)]
+11-06 19:44:23.785 I/am_proc_died( 1934): [0,12148,com.google.android.projection.gearhead:car,905,19]
+11-06 19:44:32.339 I/am_pss  ( 1934): [8146,10263,com.discord,224837632,218800128,376832,309649408,0,4,24]
+11-06 19:44:42.829 I/am_proc_died( 1934): [0,11910,com.facebook.system,945,19]
+11-06 19:44:43.053 I/am_kill ( 1934): [0,11730,com.twitter.android,905,MiuiMemoryService(cch-empty)]
+11-06 19:44:43.154 I/am_proc_died( 1934): [0,11730,com.twitter.android,905,19]
+11-06 19:44:44.538 I/am_kill ( 1934): [0,12334,com.android.htmlviewer,800,MiuiMemoryService(started-services)]
+11-06 19:44:44.567 I/am_proc_died( 1934): [0,12334,com.android.htmlviewer,800,10]
+11-06 19:44:44.582 I/am_kill ( 1934): [0,12270,com.qualcomm.qti.qccauthmgr,700,MiuiMemoryService(recent-provider)]
+11-06 19:44:44.595 I/am_kill ( 1934): [0,12433,android.process.media,500,MiuiMemoryService(started-services)]
+11-06 19:44:44.616 I/am_proc_died( 1934): [0,12270,com.qualcomm.qti.qccauthmgr,700,15]
+11-06 19:44:44.631 I/am_proc_died( 1934): [0,12433,android.process.media,500,10]
+11-06 19:44:44.653 I/am_kill ( 1934): [0,12565,com.whatsapp,500,MiuiMemoryService(started-services)]
+11-06 19:44:44.755 I/am_proc_died( 1934): [0,12565,com.whatsapp,500,10]
+11-06 19:46:28.635 I/am_kill ( 1934): [0,12460,com.google.android.projection.gearhead:car,975,MiuiMemoryService(cch-empty)]
+11-06 19:46:28.680 I/am_kill ( 1934): [0,11825,com.facebook.appmanager,965,MiuiMemoryService(cch-empty)]
+11-06 19:46:28.685 I/am_proc_died( 1934): [0,12460,com.google.android.projection.gearhead:car,975,19]
+11-06 19:46:28.725 I/am_proc_died( 1934): [0,11825,com.facebook.appmanager,965,19]
+11-06 19:46:28.947 I/am_kill ( 1934): [0,12758,com.android.htmlviewer,945,MiuiMemoryService(cch-empty)]
+11-06 19:46:28.988 I/am_proc_died( 1934): [0,12758,com.android.htmlviewer,945,19]
+11-06 19:46:28.994 I/am_kill ( 1934): [0,12735,com.android.cellbroadcastreceiver,935,MiuiMemoryService(cch-empty)]
+11-06 19:46:29.021 I/am_proc_died( 1934): [0,12735,com.android.cellbroadcastreceiver,935,19]
+11-06 19:46:29.056 I/am_kill ( 1934): [0,12828,com.google.android.apps.turbo,925,MiuiMemoryService(cch-empty)]
+11-06 19:46:29.068 I/am_kill ( 1934): [0,11805,com.google.process.gservices,915,MiuiMemoryService(cch-empty)]
+11-06 19:46:29.089 I/am_proc_died( 1934): [0,12828,com.google.android.apps.turbo,925,19]
+11-06 19:46:29.101 I/am_proc_died( 1934): [0,11805,com.google.process.gservices,915,19]
+11-06 19:46:29.117 I/am_kill ( 1934): [0,12197,org.telegram.messenger.web,905,MiuiMemoryService(cch-empty)]
+11-06 19:46:29.198 I/am_proc_died( 1934): [0,12197,org.telegram.messenger.web,905,19]
+11-06 19:46:29.382 I/am_kill ( 1934): [0,11702,com.facebook.services,500,MiuiMemoryService(started-services)]
+11-06 19:46:29.396 I/am_kill ( 1934): [0,12791,android.process.media,500,MiuiMemoryService(started-services)]
+11-06 19:46:29.424 I/am_proc_died( 1934): [0,11702,com.facebook.services,500,10]
+11-06 19:46:29.439 I/am_proc_died( 1934): [0,12791,android.process.media,500,10]
+11-06 19:47:07.781 I/am_kill ( 1934): [0,12983,com.facebook.system,925,MiuiMemoryService(cch-empty)]
+11-06 19:47:07.809 I/am_proc_died( 1934): [0,12983,com.facebook.system,925,19]
+11-06 19:47:07.838 I/am_kill ( 1934): [0,12918,com.facebook.appmanager,915,MiuiMemoryService(cch-empty)]
+11-06 19:47:07.880 I/am_proc_died( 1934): [0,12918,com.facebook.appmanager,915,19]
+11-06 19:47:07.891 I/am_kill ( 1934): [0,13034,com.android.cellbroadcastreceiver,905,MiuiMemoryService(cch-empty)]
+11-06 19:47:07.919 I/am_proc_died( 1934): [0,13034,com.android.cellbroadcastreceiver,905,19]
+11-06 19:47:07.959 I/am_kill ( 1934): [0,12868,com.facebook.services,500,MiuiMemoryService(started-services)]
+11-06 19:47:07.991 I/am_proc_died( 1934): [0,12868,com.facebook.services,500,10]
+11-06 19:48:07.988 I/am_proc_died( 1934): [0,12693,android.process.acore,945,19]
+11-06 19:48:08.210 I/am_kill ( 1934): [0,13172,com.facebook.system,935,MiuiMemoryService(cch-empty)]
+11-06 19:48:08.226 I/wm_set_resumed_activity( 1934): [0,com.discord/.main.MainDefault,bringingFoundTaskToFront]
+11-06 19:48:08.226 I/wm_new_intent( 1934): [0,83071245,87,com.discord/.main.MainDefault,android.intent.action.MAIN,NULL,NULL,270532608]
+11-06 19:48:08.239 I/am_proc_died( 1934): [0,13172,com.facebook.system,935,19]
+11-06 19:48:08.250 I/wm_set_resumed_activity( 1934): [0,com.discord/.main.MainDefault,resumeTopActivityInnerLocked]
+11-06 19:48:08.252 I/wm_resume_activity( 1934): [0,83071245,87,com.discord/.main.MainDefault]
+11-06 19:48:08.271 I/am_kill ( 1934): [0,13106,com.facebook.appmanager,925,MiuiMemoryService(cch-empty)]
+11-06 19:48:08.277 I/wm_on_restart_called( 8146): [0,com.discord.main.MainDefault,performRestartActivity,0]
+11-06 19:48:08.336 I/am_kill ( 1934): [0,13242,com.xiaomi.discover,915,MiuiMemoryService(cch-empty)]
+11-06 19:48:08.336 I/am_proc_died( 1934): [0,13106,com.facebook.appmanager,925,19]
+11-06 19:48:08.339 I/wm_on_start_called( 8146): [0,com.discord.main.MainDefault,handleStartActivity,58]
+11-06 19:48:08.384 I/am_proc_died( 1934): [0,13242,com.xiaomi.discover,915,19]
+11-06 19:48:08.436 D/TelephonyNetworkFactory[1]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2689, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:48:08.436 D/TelephonyNetworkFactory[0]( 2776): got request NetworkRequest [ TRACK_DEFAULT id=2689, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ] with score 60 and providerId 5
+11-06 19:48:08.441 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2689, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:48:08.441 D/PhoneSwitcher( 2776): Skip non REQUEST/BACKGROUND_REQUEST type request: NetworkRequest [ TRACK_DEFAULT id=2689, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:48:08.529 I/wm_on_resume_called( 8146): [0,com.discord.main.MainDefault,RESUME_ACTIVITY,79]
+11-06 19:48:08.529 I/wm_on_top_resumed_gained_called( 8146): [83071245,com.discord.main.MainDefault,topWhenResuming]
+11-06 19:48:09.100 I/am_proc_died( 1934): [0,13215,com.android.cellbroadcastreceiver,915,19]
+11-06 19:48:09.220 I/sysui_multi_action( 1934): [319,924,322,905,325,30617,757,761,758,9,759,2,806,com.discord,871,com.discord.main.MainDefault,904,com.miui.home,905,0,1320,8,1321,5]
+11-06 19:48:09.340 I/am_kill ( 1934): [0,13346,com.android.htmlviewer:remote,905,MiuiMemoryService(cch-empty)]
+11-06 19:48:09.351 I/am_kill ( 1934): [0,8985,com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0,700,MiuiMemoryService(service)]
+11-06 19:48:09.453 I/am_proc_died( 1934): [0,8985,com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0,700,15]
+11-06 19:48:09.502 I/am_kill ( 1934): [0,13060,com.facebook.services,500,MiuiMemoryService(started-services)]
+11-06 19:48:09.523 I/am_proc_died( 1934): [0,13346,com.android.htmlviewer:remote,905,19]
+11-06 19:48:09.537 I/am_kill ( 1934): [0,11967,com.android.settings,400,MiuiMemoryService(cch-rec)]
+11-06 19:48:09.690 I/sysui_multi_action( 1934): [757,128,758,1,793,954563,794,0,795,954563,796,8761,798,3,806,com.discord,857,mediaConnections,858,3,946,silent,947,0,1395,8,1500,954359,1688,1]
+11-06 19:48:09.691 I/notification_visibility( 1934): [0|com.discord|8761|null|10263,1,954563,954563,0,3]
+11-06 19:48:09.693 I/sysui_multi_action( 1934): [757,128,758,1,793,727911,794,0,795,679025,796,0,797,MESSAGE_CREATE1531385047171596469,798,1,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1395,8,1500,236077,1641,msg,1688,1,1745,732821530]
+11-06 19:48:09.694 I/sysui_multi_action( 1934): [757,1501,758,1,793,727912,794,1,795,679026,796,0,797,MESSAGE_CREATE1531385047171596469,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1500,0,1641,msg,1688,1,1745,732821530]
+11-06 19:48:09.705 I/notification_visibility( 1934): [0|com.discord|0|MESSAGE_CREATE1531385047171596469|10263,1,727911,679025,0,1]
+11-06 19:48:09.706 I/sysui_multi_action( 1934): [757,128,758,1,793,541262,794,0,795,541262,796,0,797,GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735,798,0,806,com.discord,857,voice_activity_default,858,3,946,GROUP_GENERIC_PUSH_NOTIFICATION_SENT,947,0,1395,8,1500,541055,1641,social,1688,1,1745,732821530]
+11-06 19:48:09.706 I/notification_visibility( 1934): [0|com.discord|0|GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735|10263,1,541262,541262,0,0]
+11-06 19:48:09.752 I/am_proc_died( 1934): [0,13060,com.facebook.services,500,10]
+11-06 19:48:09.815 I/am_proc_died( 1934): [0,11967,com.android.settings,400,13]
+11-06 19:48:10.186 I/sysui_multi_action( 1934): [757,128,758,3,793,728404,794,493,795,679518,796,0,797,MESSAGE_CREATE1531385047171596469,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1500,492,1641,msg,1688,1,1745,732821530]
+11-06 19:48:10.674 I/am_pss  ( 1934): [8146,10263,com.discord,294592512,284930048,514048,380260352,1,2,17]
+11-06 19:48:13.752 I/sysui_multi_action( 1934): [757,128,758,2,793,545308,794,4046,795,545308,796,0,797,GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735,798,0,806,com.discord,857,voice_activity_default,858,3,946,GROUP_GENERIC_PUSH_NOTIFICATION_SENT,947,0,1395,8,1500,545101,1641,social,1688,1,1745,732821530]
+11-06 19:48:13.752 I/notification_visibility( 1934): [0|com.discord|0|GENERIC_PUSH_NOTIFICATION_SENThttps://discord.com/feature/voiceChannel?channel_id=1532153276357673010&guild_id=1531385046735519934&user_id=483510941959454735|10263,0,545308,545308,0,0]
+11-06 19:48:13.936 I/sysui_multi_action( 1934): [757,128,758,2,793,958809,794,4246,795,958809,796,8761,798,3,806,com.discord,857,mediaConnections,858,3,946,silent,947,0,1395,8,1500,958605,1688,1]
+11-06 19:48:13.936 I/notification_visibility( 1934): [0|com.discord|8761|null|10263,0,958809,958809,0,3]
+11-06 19:48:13.938 I/sysui_multi_action( 1934): [757,128,758,2,793,732156,794,4245,795,683270,796,0,797,MESSAGE_CREATE1531385047171596469,798,1,806,com.discord,857,messages,858,4,946,GROUP_MESSAGE_CREATE,947,0,1395,8,1500,4244,1641,msg,1688,1,1745,732821530]
+11-06 19:48:13.939 I/notification_visibility( 1934): [0|com.discord|0|MESSAGE_CREATE1531385047171596469|10263,0,732156,683270,0,1]
+11-06 19:48:19.405 I/wm_pause_activity( 1934): [0,83071245,com.discord/.main.MainDefault,userLeaving=true]
+11-06 19:48:19.422 I/wm_on_top_resumed_lost_called( 8146): [83071245,com.discord.main.MainDefault,topStateChangedWhenResumed]
+11-06 19:48:19.440 I/wm_on_paused_called( 8146): [0,com.discord.main.MainDefault,performPause,12]
+11-06 19:48:19.485 I/notification_enqueue( 1934): [10263,8146,com.discord,8761,NULL,0,Notification(channel=mediaConnections shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0x4a color=0xffda3e44 groupKey=silent actions=3 vis=PRIVATE),1]
+11-06 19:48:19.491 I/notification_enqueue( 1934): [10263,8146,com.discord,8761,NULL,0,Notification(channel=mediaConnections shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0xa color=0xffda3e44 groupKey=silent actions=3 vis=PRIVATE),1]
+11-06 19:48:19.671 I/sysui_multi_action( 1934): [319,375,322,373,325,30628,757,761,758,8,759,2,806,com.google.android.permissioncontroller,871,com.android.permissioncontroller.permission.ui.GrantPermissionsActivity,904,com.discord,905,0,1320,8,1321,5]
+11-06 19:48:19.769 I/wm_set_resumed_activity( 1934): [0,com.discord/.main.MainDefault,resumeTopActivityInnerLocked]
+11-06 19:48:19.770 I/wm_resume_activity( 1934): [0,83071245,87,com.discord/.main.MainDefault]
+11-06 19:48:19.786 I/wm_on_activity_result_called( 8146): [0,com.discord.main.MainDefault,ACTIVITY_RESULT,1]
+11-06 19:48:19.838 I/wm_on_resume_called( 8146): [0,com.discord.main.MainDefault,RESUME_ACTIVITY,48]
+11-06 19:48:19.839 I/wm_on_top_resumed_gained_called( 8146): [83071245,com.discord.main.MainDefault,topWhenResuming]
+11-06 19:48:19.867 I/notification_enqueue( 1934): [10263,8146,com.discord,8761,NULL,0,Notification(channel=mediaConnections shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0xa color=0xffda3e44 groupKey=silent actions=3 vis=PRIVATE),1]
+11-06 19:48:20.088 I/notification_enqueue( 1934): [10263,8146,com.discord,8761,NULL,0,Notification(channel=mediaConnections shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0xa color=0xffda3e44 groupKey=silent actions=3 vis=PRIVATE),1]
+11-06 19:48:20.238 I/sysui_multi_action( 1934): [757,856,758,1,806,android,857,com.android.server.wm.AlertWindowNotification - com.discord,858,1]
+11-06 19:48:20.271 I/notification_enqueue( 1934): [1000,1934,android,0,com.android.server.wm.AlertWindowNotification - com.discord,0,Notification(channel=com.android.server.wm.AlertWindowNotification - com.discord shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0x102 color=0xff607d8b vis=PRIVATE),0]
+11-06 19:48:20.287 I/notification_enqueue( 1934): [10263,8146,com.discord,8761,NULL,0,Notification(channel=mediaConnections shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0xa color=0xffda3e44 groupKey=silent actions=3 vis=PRIVATE),1]
+11-06 19:48:20.471 I/sysui_multi_action( 1934): [757,1501,758,1,793,201,794,0,795,201,796,0,797,com.android.server.wm.AlertWindowNotification - com.discord,806,android,857,com.android.server.wm.Alert-6dfba38a,858,1,947,0,1500,0,1688,1,1745,2098068913]
+11-06 19:48:20.568 I/notification_enqueue( 1934): [10263,8146,com.discord,8761,NULL,0,Notification(channel=mediaConnections shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0xa color=0xffda3e44 groupKey=silent actions=3 vis=PRIVATE),1]
+11-06 19:48:40.457 I/wm_pause_activity( 1934): [0,83071245,com.discord/.main.MainDefault,userLeaving=true]
+11-06 19:48:40.474 I/wm_on_top_resumed_lost_called( 8146): [83071245,com.discord.main.MainDefault,topStateChangedWhenResumed]
+11-06 19:48:40.487 I/wm_on_paused_called( 8146): [0,com.discord.main.MainDefault,performPause,9]
+11-06 19:48:40.820 I/sysui_multi_action( 1934): [319,519,322,518,325,30649,757,761,758,8,759,2,806,com.android.systemui,871,com.android.systemui.media.MediaProjectionPermissionActivity,904,com.discord,905,0,1320,8,1321,5]
+11-06 19:48:40.826 I/sysui_multi_action( 1934): [757,856,758,2,806,android,857,com.android.server.wm.AlertWindowNotification - com.discord,858,1]
+11-06 19:48:40.827 I/sysui_multi_action( 1934): [757,128,758,5,759,8,793,20557,794,0,795,20557,796,0,797,com.android.server.wm.AlertWindowNotification - com.discord,806,android,857,com.android.server.wm.Alert-6dfba38a,858,1,947,0,1500,20356,1688,1,1745,2098068913]
+11-06 19:48:40.827 I/notification_canceled( 1934): [0|android|0|com.android.server.wm.AlertWindowNotification - com.discord|1000,8,20557,20557,0,-1,-1,NULL]
+11-06 19:48:41.527 I/wm_set_resumed_activity( 1934): [0,com.discord/.main.MainDefault,resumeTopActivityInnerLocked]
+11-06 19:48:41.530 I/wm_resume_activity( 1934): [0,83071245,87,com.discord/.main.MainDefault]
+11-06 19:48:41.533 I/wm_on_activity_result_called( 8146): [0,com.discord.main.MainDefault,ACTIVITY_RESULT,0]
+11-06 19:48:41.568 I/wm_on_resume_called( 8146): [0,com.discord.main.MainDefault,RESUME_ACTIVITY,34]
+11-06 19:48:41.569 I/wm_on_top_resumed_gained_called( 8146): [83071245,com.discord.main.MainDefault,topWhenResuming]
+11-06 19:48:41.660 I/notification_enqueue( 1934): [10263,8146,com.discord,8761,NULL,0,Notification(channel=mediaConnections shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0x4a color=0xffda3e44 groupKey=silent actions=3 vis=PRIVATE),1]
+11-06 19:48:41.674 I/notification_enqueue( 1934): [10263,8146,com.discord,8761,NULL,0,Notification(channel=mediaConnections shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0xa color=0xffda3e44 groupKey=silent actions=3 vis=PRIVATE),1]
+11-06 19:48:41.678 I/sysui_multi_action( 1934): [757,856,758,1,806,android,857,com.android.server.wm.AlertWindowNotification - com.discord,858,1]
+11-06 19:48:41.690 I/notification_enqueue( 1934): [1000,1934,android,0,com.android.server.wm.AlertWindowNotification - com.discord,0,Notification(channel=com.android.server.wm.AlertWindowNotification - com.discord shortcut=null contentView=null vibrate=null sound=null defaults=0x0 flags=0x102 color=0xff607d8b vis=PRIVATE),0]
+11-06 19:48:41.892 I/sysui_multi_action( 1934): [757,1501,758,1,793,206,794,0,795,206,796,0,797,com.android.server.wm.AlertWindowNotification - com.discord,806,android,857,com.android.server.wm.Alert-6dfba38a,858,1,947,0,1500,0,1688,1,1745,2098068913]
+11-06 19:48:42.754 W/MiuiPerfServiceClient( 3923): interceptAndQueuing:8146|com.discord|762|73|unknown|null|com.discord-|30651621706482|Slow handle animation|23
+11-06 19:48:42.943 I/DisplayManagerService( 1934): Display device added: DisplayDeviceInfo{"WebRTC_ScreenCapture": uniqueId="virtual:com.discord,10263,WebRTC_ScreenCapture,0", 1280 x 720, modeId 43, defaultModeId 43, supportedModes [{id=43, width=1280, height=720, fps=60.0}], colorMode 0, supportedColorModes [0], HdrCapabilities null, allmSupported false, gameContentTypeSupported false, density 400, 400.0 x 400.0 dpi, appVsyncOff 0, presDeadline 16666666, touch NONE, rotation 0, type VIRTUAL, deviceProductInfo null, state ON, owner com.discord (uid 10263), FLAG_PRESENTATION}
+11-06 19:48:43.160 I/DisplayManagerService( 1934): Display device removed: DisplayDeviceInfo{"WebRTC_ScreenCapture": uniqueId="virtual:com.discord,10263,WebRTC_ScreenCapture,0", 1280 x 720, modeId 43, defaultModeId 43, supportedModes [{id=43, width=1280, height=720, fps=60.0}], colorMode 0, supportedColorModes [0], HdrCapabilities null, allmSupported false, gameContentTypeSupported false, density 400, 400.0 x 400.0 dpi, appVsyncOff 0, presDeadline 16666666, touch NONE, rotation 0, type VIRTUAL, deviceProductInfo null, state ON, owner com.discord (uid 10263), FLAG_PRESENTATION}
+11-06 19:48:43.166 I/DisplayManagerService( 1934): Display device added: DisplayDeviceInfo{"WebRTC_ScreenCapture": uniqueId="virtual:com.discord,10263,WebRTC_ScreenCapture,0", 656 x 1408, modeId 44, defaultModeId 44, supportedModes [{id=44, width=656, height=1408, fps=60.0}], colorMode 0, supportedColorModes [0], HdrCapabilities null, allmSupported false, gameContentTypeSupported false, density 400, 400.0 x 400.0 dpi, appVsyncOff 0, presDeadline 16666666, touch NONE, rotation 0, type VIRTUAL, deviceProductInfo null, state ON, owner com.discord (uid 10263), FLAG_PRESENTATION}
+11-06 19:48:43.505 W/MiuiPerfServiceClient( 3923): interceptAndQueuing:8146|com.discord|1828|90|unknown|null|com.discord/com.discord.main.MainDefault|30652603984190|Slow handle animation|65
+11-06 19:48:43.815 W/MiuiPerfServiceClient( 3923): interceptAndQueuing:8146|com.discord|638|60|unknown|null|com.discord-|30652580903096|Slow handle traversal|20
+11-06 19:48:46.256 I/wm_on_top_resumed_lost_called( 8146): [83071245,com.discord.main.MainDefault,topStateChangedWhenResumed]
+11-06 19:48:46.263 I/wm_pause_activity( 1934): [0,83071245,com.discord/.main.MainDefault,userLeaving=true]
+11-06 19:48:46.264 I/wm_add_to_stopping( 1934): [0,83071245,com.discord/.main.MainDefault,makeInvisible]
+11-06 19:48:46.290 I/wm_on_paused_called( 8146): [0,com.discord.main.MainDefault,performPause,10]
+11-06 19:48:46.322 I/wm_stop_activity( 1934): [0,83071245,com.discord/.main.MainDefault]
+11-06 19:48:46.359 I/wm_on_stop_called( 8146): [0,com.discord.main.MainDefault,STOP_ACTIVITY_ITEM,4]
+11-06 19:48:47.001 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2689, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:48:52.257 I/chatty  (  500): uid=1069(lmkd) expire 181 lines
+11-06 19:48:52.298 I/am_proc_died( 1934): [0,13704,com.android.cellbroadcastreceiver,905,19]
+11-06 19:48:53.035 I/am_proc_died( 1934): [0,8777,com.openai.chatgpt,701,16]
+11-06 19:48:53.420 I/am_proc_died( 1934): [0,9293,com.miui.core,500,10]
+11-06 19:48:54.688 I/am_proc_died( 1934): [0,13399,com.mi.android.globalminusscreen,900,17]
+11-06 19:49:03.946 I/chatty  (  500): uid=1069(lmkd) expire 88 lines
+11-06 19:49:12.929 I/am_proc_died( 1934): [0,13957,com.google.android.apps.turbo,915,19]
+11-06 19:49:13.098 I/ActivityManager( 1934): Killing 14234:com.facebook.system/u0a108 (adj 905): MiuiMemoryService(cch-empty)
+11-06 19:49:13.098 W/PreloadController( 1934): notify...pkgName=com.facebook.system, userId=0, processName=com.facebook.system, pid=14234, reason=MiuiMemoryService(cch-empty)
+11-06 19:49:13.128 I/am_kill ( 1934): [0,14234,com.facebook.system,905,MiuiMemoryService(cch-empty)]
+11-06 19:49:13.139 I/ActivityManager( 1934): Killing 14007:android.process.media/u0a93 (adj 800): MiuiMemoryService(started-services)
+11-06 19:49:13.139 I/am_kill ( 1934): [0,14007,android.process.media,800,MiuiMemoryService(started-services)]
+11-06 19:49:13.150 I/ActivityManager( 1934): Killing 13980:com.google.process.gservices/u0a186 (adj 700): MiuiMemoryService(recent-provider)
+11-06 19:49:13.150 I/am_kill ( 1934): [0,13980,com.google.process.gservices,700,MiuiMemoryService(recent-provider)]
+11-06 19:49:13.154 I/am_proc_died( 1934): [0,14234,com.facebook.system,905,19]
+11-06 19:49:13.163 I/ActivityManager( 1934): Killing 14167:com.facebook.appmanager/u0a115 (adj 700): MiuiMemoryService(recent-provider)
+11-06 19:49:13.163 W/PreloadController( 1934): notify...pkgName=com.facebook.appmanager, userId=0, processName=com.facebook.appmanager, pid=14167, reason=MiuiMemoryService(recent-provider)
+11-06 19:49:13.188 I/am_proc_died( 1934): [0,13980,com.google.process.gservices,700,15]
+11-06 19:49:13.196 I/am_proc_died( 1934): [0,14007,android.process.media,800,10]
+11-06 19:49:13.197 I/am_kill ( 1934): [0,14167,com.facebook.appmanager,700,MiuiMemoryService(recent-provider)]
+11-06 19:49:13.234 I/am_proc_died( 1934): [0,14167,com.facebook.appmanager,700,15]
+11-06 19:49:14.107 I/chatty  (  500): uid=1069(lmkd) expire 114 lines
+11-06 19:49:14.160 I/am_proc_died( 1934): [0,14117,com.facebook.services,500,10]
+11-06 19:49:23.196 I/am_proc_died( 1934): [0,14051,com.android.settings,905,19]
+11-06 19:49:24.210 I/chatty  (  500): uid=1069(lmkd) expire 95 lines
+11-06 19:49:26.172 I/ActivityManager( 1934): Killing 14300:com.google.process.gapps/u0a186 (adj 700): MiuiMemoryService(recent-provider)
+11-06 19:49:26.173 I/am_kill ( 1934): [0,14300,com.google.process.gapps,700,MiuiMemoryService(recent-provider)]
+11-06 19:49:26.200 I/am_proc_died( 1934): [0,14300,com.google.process.gapps,700,15]
+11-06 19:49:26.529 I/am_proc_died( 1934): [0,14321,com.google.process.gservices,700,15]
+11-06 19:49:26.918 I/com.discord( 8146): Background young concurrent copying GC freed 367019(15MB) AllocSpace objects, 126(2840KB) LOS objects, 38% free, 30MB/49MB, paused 236us total 509.141ms
+11-06 19:49:39.016 I/chatty  (  500): uid=1069(lmkd) expire 101 lines
+11-06 19:49:39.050 I/am_proc_died( 1934): [0,8466,com.miui.securitycore.remote,200,4]
+11-06 19:49:42.538 D/lowmemorykiller(  500): thrashing: 11% thrashing_limit: 10%
+11-06 19:49:42.538 D/lowmemorykiller(  500): MI_LOG_TO_PM| skill_desc=low watermark is breached and thrashing (11%) events=0 level=1 event_to_mms=2(swap ok and mem isn't ok) swap_is_low=0 reclaim_type=1 wmarklow=1 kreclaimable=85292kB mi_polling_check=0 con_reclaim_count=kswapd:1,direct:0,direct_throttle:0 thrashing=11 thrashing_limit=10 in_compaction=0 count_upgraded_event=0
+11-06 19:49:42.541 I/lowmemorykiller(  500): Kill 'com.lbe.security.miui' (8439), uid 10090, oom_adj 200 to free 60120kB; reason: low watermark is breached and thrashing (11%)
+11-06 19:49:42.563 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:42.564 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:42.568 W/lowmemorykiller(  500): Failed to open /proc/8439/oom_score_adj; errno=2: process 8439 might have been killed
+11-06 19:49:42.590 I/am_proc_died( 1934): [0,8439,com.lbe.security.miui,500,10]
+11-06 19:49:42.666 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:42.666 D/lowmemorykiller(  500): thrashing: 2% thrashing_limit: 10%
+11-06 19:49:42.666 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:42.766 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:42.767 D/lowmemorykiller(  500): thrashing: 5% thrashing_limit: 10%
+11-06 19:49:42.767 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:42.870 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:42.870 D/lowmemorykiller(  500): thrashing: 5% thrashing_limit: 10%
+11-06 19:49:42.871 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:42.971 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:42.972 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:43.069 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:43.070 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:43.170 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:43.171 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:43.268 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:43.268 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:43.369 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:43.370 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:43.470 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:43.470 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:43.572 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:43.573 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:43.866 D/lowmemorykiller(  500): medium pressure event triggered
+11-06 19:49:43.867 D/lowmemorykiller(  500): thrashing: 7% thrashing_limit: 10%
+11-06 19:49:43.867 D/lowmemorykiller(  500): MI_LOG_TO_PM| skill_desc= events=2 level=1 event_to_mms=6(cont low wmark) swap_is_low=0 reclaim_type=1 wmarklow=1 kreclaimable=84056kB mi_polling_check=0 con_reclaim_count=kswapd:2,direct:0,direct_throttle:0 thrashing=7 thrashing_limit=10 in_compaction=0 count_upgraded_event=0
+11-06 19:49:43.867 D/lowmemorykiller(  500): Not killing for medium pressure event trigger
+11-06 19:49:43.967 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:43.968 D/lowmemorykiller(  500): thrashing: 9% thrashing_limit: 10%
+11-06 19:49:43.968 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:44.071 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:44.072 D/lowmemorykiller(  500): thrashing: 10% thrashing_limit: 10%
+11-06 19:49:44.072 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:44.176 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:44.177 D/lowmemorykiller(  500): thrashing: 12% thrashing_limit: 10%
+11-06 19:49:44.178 D/lowmemorykiller(  500): MI_LOG_TO_PM| skill_desc=low watermark is breached and thrashing (12%) events=0 level=1 event_to_mms=2(swap ok and mem isn't ok) swap_is_low=0 reclaim_type=1 wmarklow=1 kreclaimable=83876kB mi_polling_check=0 con_reclaim_count=kswapd:2,direct:0,direct_throttle:0 thrashing=12 thrashing_limit=10 in_compaction=0 count_upgraded_event=0
+11-06 19:49:44.193 I/killinfo(  500): [8146,com.discord,10263,200,100,264968,4,3720708,72152,526728,140052,392,13896,64900,2306044,1428196,1400692,466888,137504,311556,83876,83176,196852,54848,77556,0,0,148]
+11-06 19:49:44.193 I/lowmemorykiller(  500): Kill 'com.discord' (8146), uid 10263, oom_adj 200 to free 264968kB; reason: low watermark is breached and thrashing (12%)
+11-06 19:49:44.282 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:44.282 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 9%
+11-06 19:49:44.282 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:44.383 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:44.383 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:44.416 D/lowmemorykiller(  500): critical pressure event triggered
+11-06 19:49:44.417 D/lowmemorykiller(  500): Not killing for critical pressure event trigger
+11-06 19:49:44.477 D/lowmemorykiller(  500): critical pressure event polling check
+11-06 19:49:44.478 D/lowmemorykiller(  500): Not killing for critical pressure event polling check
+11-06 19:49:44.492 I/DisplayManagerService( 1934): Arvind : handleDisplayDeviceChanged info=DisplayDeviceInfo{"WebRTC_ScreenCapture": uniqueId="virtual:com.discord,10263,WebRTC_ScreenCapture,0", 656 x 1408, modeId 44, defaultModeId 44, supportedModes [{id=44, width=656, height=1408, fps=60.0}], colorMode 0, supportedColorModes [0], HdrCapabilities null, allmSupported false, gameContentTypeSupported false, density 400, 400.0 x 400.0 dpi, appVsyncOff 0, presDeadline 16666666, touch NONE, rotation 0, type VIRTUAL, deviceProductInfo null, state ON, owner com.discord (uid 10263), FLAG_PRESENTATION}
+11-06 19:49:44.518 I/VirtualDisplayAdapter( 1934): Virtual display device released because application token died: com.discord
+11-06 19:49:44.524 I/ActivityManager( 1934): Process com.discord (pid 8146) has died: prcp FGS
+11-06 19:49:44.527 D/lowmemorykiller(  500): super critical pressure event triggered
+11-06 19:49:44.527 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:44.527 D/lowmemorykiller(  500): Not killing for super critical pressure event trigger
+11-06 19:49:44.527 I/am_proc_died( 1934): [0,8146,com.discord,200,4]
+11-06 19:49:44.537 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.538 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.548 D/DcRequest( 2776): Cellular request confirmed: NetworkRequest [ TRACK_DEFAULT id=2644, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10263 AdministratorUids: [] RequestorUid: 10263 RequestorPackageName: com.discord] ]
+11-06 19:49:44.548 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.549 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.549 I/DisplayManagerService( 1934): Display device removed: DisplayDeviceInfo{"WebRTC_ScreenCapture": uniqueId="virtual:com.discord,10263,WebRTC_ScreenCapture,0", 656 x 1408, modeId 44, defaultModeId 44, supportedModes [{id=44, width=656, height=1408, fps=60.0}], colorMode 0, supportedColorModes [0], HdrCapabilities null, allmSupported false, gameContentTypeSupported false, density 400, 400.0 x 400.0 dpi, appVsyncOff 0, presDeadline 16666666, touch NONE, rotation 0, type VIRTUAL, deviceProductInfo null, state ON, owner com.discord (uid 10263), FLAG_PRESENTATION}
+11-06 19:49:44.559 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.559 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:44.560 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.570 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.570 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:44.570 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.581 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.581 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.591 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.592 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.602 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.602 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.612 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.613 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.623 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.624 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.634 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.634 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.644 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.645 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.655 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.656 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.666 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.666 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.676 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.677 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.687 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.688 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.698 I/WindowManager( 1934): WIN DEATH: Window{50d1444 mode=0 rootTaskId=87 u0 com.discord/com.discord.main.MainDefault}
+11-06 19:49:44.698 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.698 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.708 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.709 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.719 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.720 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.730 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.730 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.740 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.741 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.751 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.751 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.762 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.762 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.772 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.773 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.783 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.783 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.793 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.794 D/lowmemorykiller(  500): MI_LOG_TO_PM| skill_desc= events=0 level=3 event_to_mms=5(cont critical event) swap_is_low=0 reclaim_type=0 wmarklow=0 kreclaimable=120004kB mi_polling_check=1 con_reclaim_count=kswapd:1,direct:0,direct_throttle:0 thrashing=0 thrashing_limit=10 in_compaction=0 count_upgraded_event=0
+11-06 19:49:44.794 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.804 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.804 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.815 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.815 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.825 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.826 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.836 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.837 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.845 I/WindowManager( 1934): WIN DEATH: Window{6ed930c mode=0 rootTaskId=1 u0 com.discord}
+11-06 19:49:44.847 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.848 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.857 I/sysui_multi_action( 1934): [757,128,758,5,759,8,793,63172,794,0,795,63172,796,0,797,com.android.server.wm.AlertWindowNotification - com.discord,806,android,857,com.android.server.wm.Alert-6dfba38a,858,1,947,0,1500,62966,1688,1,1745,2098068913]
+11-06 19:49:44.857 W/ActivityManager( 1934): Scheduling restart of crashed service com.discord/.foreground_service.ForegroundService in 34314ms for start-requested
+11-06 19:49:44.857 I/am_schedule_service_restart( 1934): [0,com.discord/.foreground_service.ForegroundService,34314]
+11-06 19:49:44.857 I/notification_canceled( 1934): [0|android|0|com.android.server.wm.AlertWindowNotification - com.discord|1000,8,63172,63172,0,-1,-1,NULL]
+11-06 19:49:44.858 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.858 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.862 I/sysui_multi_action( 1934): [757,128,758,5,759,8,793,1049735,794,95172,795,63189,796,8761,806,com.discord,857,mediaConnections,858,3,946,silent,947,0,1500,63189,1688,1]
+11-06 19:49:44.862 I/notification_canceled( 1934): [0|com.discord|8761|null|10263,8,1049735,63189,95172,-1,-1,NULL]
+11-06 19:49:44.869 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.869 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.877 I/sysui_multi_action( 1934): [757,856,758,2,806,android,857,com.android.server.wm.AlertWindowNotification - com.discord,858,1]
+11-06 19:49:44.887 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.887 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.897 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.898 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.908 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.908 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.919 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.919 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.929 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.930 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.940 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.940 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.951 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.951 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.957 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:44.957 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:44.957 D/lowmemorykiller(  500): medium pressure event triggered
+11-06 19:49:44.958 D/lowmemorykiller(  500): Not killing for medium pressure event trigger
+11-06 19:49:45.058 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.058 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.068 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.069 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.079 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.079 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.090 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.090 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.100 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.101 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.111 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.111 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.121 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.122 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.132 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.132 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.143 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.143 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.153 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.154 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.164 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.164 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.174 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.175 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.185 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.186 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.196 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.196 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.206 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.207 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.217 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.218 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.228 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.229 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.239 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.239 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.249 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.250 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.259 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.260 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.267 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.268 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.282 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.283 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.290 D/NotifBadge( 2405): update app badge num: com.discord/,num=0,isAllowed=false,userId=0
+11-06 19:49:45.293 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.294 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.304 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.304 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.305 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.306 I/Launcher.ApplicationsMessage(20425): update com.discord/ to null
+11-06 19:49:45.315 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.315 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.315 D/lowmemorykiller(  500): MI_LOG_TO_PM| skill_desc= events=0 level=3 event_to_mms=5(cont critical event) swap_is_low=0 reclaim_type=1 wmarklow=1 kreclaimable=110704kB mi_polling_check=0 con_reclaim_count=kswapd:0,direct:0,direct_throttle:0 thrashing=0 thrashing_limit=10 in_compaction=0 count_upgraded_event=0
+11-06 19:49:45.315 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.325 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.326 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.326 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.335 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.336 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:45.336 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.347 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.347 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:45.347 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.358 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.358 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:45.358 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.369 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.369 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:45.369 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.379 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.380 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.390 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.390 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.400 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.401 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.411 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.412 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.422 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.422 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.433 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.433 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.443 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.444 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.454 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.455 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.461 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.461 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.471 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.472 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.480 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.481 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.492 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.492 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.502 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.503 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.506 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.507 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.507 D/lowmemorykiller(  500): critical pressure event triggered
+11-06 19:49:45.507 D/lowmemorykiller(  500): MI_LOG_TO_PM| skill_desc=critical pressure and device is low on memory events=2 level=2 event_to_mms=2(swap ok and mem isn't ok) swap_is_low=0 reclaim_type=0 wmarklow=1 kreclaimable=107240kB mi_polling_check=1 con_reclaim_count=kswapd:0,direct:0,direct_throttle:0 thrashing=0 thrashing_limit=10 in_compaction=0 count_upgraded_event=0
+11-06 19:49:45.507 D/lowmemorykiller(  500): No processes to kill with adj score >= 201
+11-06 19:49:45.608 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.608 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.717 D/lowmemorykiller(  500): super critical pressure event triggered
+11-06 19:49:45.717 D/lowmemorykiller(  500): MI_LOG_TO_PM| skill_desc=critical pressure and device is low on memory events=2 level=3 event_to_mms=2(swap ok and mem isn't ok) swap_is_low=0 reclaim_type=0 wmarklow=1 kreclaimable=107496kB mi_polling_check=1 con_reclaim_count=kswapd:0,direct:0,direct_throttle:0 thrashing=0 thrashing_limit=10 in_compaction=0 count_upgraded_event=0
+11-06 19:49:45.717 D/lowmemorykiller(  500): No processes to kill with adj score >= 201
+11-06 19:49:45.727 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.728 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.738 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.738 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.755 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.756 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.766 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.766 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.776 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.777 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.787 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.788 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.798 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.798 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.808 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.809 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.819 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.820 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.830 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.830 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.840 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.841 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.841 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.851 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.851 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.852 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.862 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.862 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.862 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.872 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.873 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.873 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.883 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.884 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.884 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.894 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.894 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.895 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.905 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.905 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.905 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.916 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.916 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.916 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.927 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.927 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.927 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.938 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.938 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:45.938 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.948 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.949 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:45.949 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.959 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.959 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:45.960 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.970 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.970 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:45.970 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.981 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.981 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:45.982 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:45.992 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:45.992 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:45.993 D/lowmemorykiller(  500): MI_LOG_TO_PM| skill_desc= events=0 level=3 event_to_mms=5(cont critical event) swap_is_low=0 reclaim_type=1 wmarklow=1 kreclaimable=111304kB mi_polling_check=0 con_reclaim_count=kswapd:0,direct:0,direct_throttle:0 thrashing=1 thrashing_limit=10 in_compaction=0 count_upgraded_event=0
+11-06 19:49:45.993 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.003 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.003 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:46.003 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.013 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.014 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:46.014 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.024 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.025 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:46.025 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.035 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.036 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:46.036 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.037 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.037 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:46.038 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.038 D/lowmemorykiller(  500): medium pressure event triggered
+11-06 19:49:46.038 D/lowmemorykiller(  500): thrashing: 1% thrashing_limit: 10%
+11-06 19:49:46.038 D/lowmemorykiller(  500): Not killing for medium pressure event trigger
+11-06 19:49:46.138 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.139 D/lowmemorykiller(  500): thrashing: 3% thrashing_limit: 10%
+11-06 19:49:46.139 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.149 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.150 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.160 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.161 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.171 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.171 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.181 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.182 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.192 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.193 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.203 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.203 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.213 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.214 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.224 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.225 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.235 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.236 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.246 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.246 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.257 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.257 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.267 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.268 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.278 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.278 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.289 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.289 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.299 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.300 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.310 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.311 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.321 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.322 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.332 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.332 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:46.333 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.343 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.343 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:46.343 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.353 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.354 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:46.354 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.364 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.365 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:46.365 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.375 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.375 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:46.376 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.386 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.386 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.396 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.397 D/lowmemorykiller(  500): MI_LOG_TO_PM| skill_desc= events=0 level=3 event_to_mms=5(cont critical event) swap_is_low=0 reclaim_type=0 wmarklow=1 kreclaimable=100652kB mi_polling_check=1 con_reclaim_count=kswapd:1,direct:0,direct_throttle:0 thrashing=0 thrashing_limit=10 in_compaction=0 count_upgraded_event=0
+11-06 19:49:46.397 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.407 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.408 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.418 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.419 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.429 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.429 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.438 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.439 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.450 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.451 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.461 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.462 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.472 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.473 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.483 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.484 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.494 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.494 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.504 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.505 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.515 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.516 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.526 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.527 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.537 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.538 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.547 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.548 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.559 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.559 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.570 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.570 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.581 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.581 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.586 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.587 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.587 D/lowmemorykiller(  500): critical pressure event triggered
+11-06 19:49:46.588 D/lowmemorykiller(  500): MI_LOG_TO_PM| skill_desc=critical pressure and device is low on memory events=2 level=2 event_to_mms=2(swap ok and mem isn't ok) swap_is_low=0 reclaim_type=0 wmarklow=1 kreclaimable=100664kB mi_polling_check=1 con_reclaim_count=kswapd:0,direct:0,direct_throttle:0 thrashing=0 thrashing_limit=10 in_compaction=0 count_upgraded_event=0
+11-06 19:49:46.588 D/lowmemorykiller(  500): No processes to kill with adj score >= 201
+11-06 19:49:46.688 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.688 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:46.688 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.699 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.699 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.717 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.718 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:46.728 D/lowmemorykiller(  500): super critical pressure event polling check
+11-06 19:49:46.728 D/lowmemorykiller(  500): Not killing for super critical pressure event polling check
+11-06 19:49:47.137 D/lowmemorykiller(  500): medium pressure event triggered
+11-06 19:49:47.137 D/lowmemorykiller(  500): thrashing: 0% thrashing_limit: 10%
+11-06 19:49:47.138 D/lowmemorykiller(  500): Not killing for medium pressure event trigger
+11-06 19:49:47.238 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:47.239 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:47.339 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:47.340 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:47.440 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:47.441 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:47.541 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:47.542 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:47.642 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:47.643 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:47.743 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:47.744 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:47.846 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:47.846 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:47.947 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:47.947 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:48.047 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:48.048 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
+11-06 19:49:48.148 D/lowmemorykiller(  500): medium pressure event polling check
+11-06 19:49:48.149 D/lowmemorykiller(  500): Not killing for medium pressure event polling check
